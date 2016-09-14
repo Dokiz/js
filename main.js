@@ -11,3 +11,22 @@ else {
 }
 console.log(s);
 
+
+var b,c;
+b=5;
+switch(b){	
+case i;{
+c=i;	
+}
+break;
+case -1;{
+	c=2;
+}
+break;
+default;{
+c=3;
+}
+break;
+}
+console.log(c);
+
